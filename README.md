@@ -2,6 +2,10 @@
 
 A provider for [Faker](https://github.com/joke2k/faker) that generates realistic passport data.
 
+## Description
+
+The Faker Passport Provider is a custom extension for the popular Faker library that specializes in generating realistic passport-related data. It provides methods to create valid-looking passport numbers, dates of birth with age constraints, and complete passport owner profiles including names, genders, and places of birth. This tool is perfect for testing applications that handle passport information, creating sample datasets, or populating development databases with realistic passport data.
+
 ## Installation
 
 ### From PyPI (when published)
